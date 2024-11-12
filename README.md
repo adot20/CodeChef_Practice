@@ -1,3 +1,3 @@
-| The solutions to some of the CodeChef practice problems are put together.
+| Solutions to some of the CodeChef practice problems are put together.
 
 ![cc-logo](https://github.com/user-attachments/assets/c033522f-82af-409f-8192-a304ebf06929)
