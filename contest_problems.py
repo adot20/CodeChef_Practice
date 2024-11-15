@@ -10,8 +10,6 @@
 #For each test case, output two integers in a single new line - the first integer should be the number of problems in START38, and the second integer should be the number of problems in LTIME108.
 
 
-
-
 test_case = int(input())
 
 for _ in range(test_case):
